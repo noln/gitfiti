@@ -1,4 +1,4 @@
-Gifiti
+Gitfiti
 ======
 
 Creates dummy commits that draw a picture on your GitHub green block wall thingy.
